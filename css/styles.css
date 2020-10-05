@@ -36,7 +36,7 @@ Colors:
 /******************************/
 @font-face {
     font-family: 'Grand Stylus';
-    src: url('./webfonts/GrandStylus.ttf') format('truetype');
+    src: url('./webfonts/GrandStylus.woff') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -44,7 +44,7 @@ Colors:
 
 @font-face {
     font-family: 'MrRobot';
-    src: url('./webfonts/MrRobot.ttf') format('truetype');
+    src: url('./webfonts/MrRobot.woff') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
