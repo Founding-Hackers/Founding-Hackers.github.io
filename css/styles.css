@@ -147,11 +147,11 @@ a.white {
 }
 
 .robot {
-	font-family: 'MrRobot', serif;
+	font-family: 'MrRobot';
 }
 
 .grand {
-	font-family: 'Grand Stylus', cursive;
+	font-family: 'Grand Stylus';
 }
 
 .btn-solid-reg {
@@ -1657,7 +1657,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header {
-		background: url('../images/header-background.jpg') center center no-repeat;
+		background: url('../images/ex-header-background.jpg') center center no-repeat;
 		background-size: cover; 
 	}
 
