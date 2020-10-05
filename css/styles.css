@@ -146,12 +146,12 @@ a.white {
 	color: #F06748;
 }
 
-.robot {
-	font-family: 'MrRobot';
+.amboy {
+	font-family: amboy-inline, sans-serif;
 }
 
-.grand {
-	font-family: 'Grand Stylus';
+.graffiti {
+	font-family: graffiti, cursive;
 }
 
 .gils {
